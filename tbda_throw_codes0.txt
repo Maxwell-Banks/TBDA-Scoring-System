@@ -1,0 +1,117 @@
+Tennis Ball Death Arena 
+Friday June 21, 2019
+
+Gamemaster: Michael McCabe
+Grand Scribe: Maxwell Banks
+
+
+History:
+The game was invented one morning when the current Gamemaster began the throw a tennis ball between the rafters of the room directly to the left of the entrance of the house located at 809 Regal Rd. Berkeley, CA. The original goal was to throw the ball up have it bounce on one rafter, bounce on the other, then fall back smoothly with out ever touching the sides. This is the overall main inspired goal of Tennis Ball Death Arena. The rules were then developed from there adding a more rigid points system and penalizing for mistakes that were made in deriving from the main original goal. 
+
+
+Philosophy of the Game:
+
+The founding concept, what is now considered to be a "Uot2D", was the overarching goal in the beginning. We hopes this allows us to push the game towards that venerable goal. Perhaps large rule changes need to be made. Some already have and will be included in this addition noted with a '*'. When you see this mark check the bottom of the page for information on the change note with the code of the shown throw. Change rules as you wish. This guide was designed as a tool for the scribe of the game to use to more effectively and efficiently 
+
+Rules:
+
+Players take turns throwing the a tennis ball between the rafters of the main living room of 809 Regal Rd. in Berkeley, CA. The ball then does any number of things leading to a "throw". This throw is then referenced to a rule book which then 
+
+
+Throw codes:
+
+skim
+code: w/s, at end of code
+def: Brushes against the side of the beam once or twice in a single direction removes varying points. Skimming on both up and down is but is worth the value of points if less than 0, of not it is worth 0
+points: N/A
+
+Up
+code: U
+def: Goes up through the center of the beams and pass past the top of tea
+points: +.25, w/s -.25
+
+Down
+code: D
+def: Comes down through the center of the beams
+points: +.25, w/s -.25
+
+angled beam
+code: ab
+def: Bounces off the angled beam between an up and down so causes a change in points, whether it be positive or negative
+points: N/A
+
+off top
+code: ot + number of bounces (e.g. ot3 or ot1)
+def: Increases the score with the number of bounces in series increasing exponentially to the point of an auto win
+points: N/A
+
+rattle
+code: r
+def: The ball bounces between the two rafters 3 or more times, less than that is a skim.  If combined with a skim in one direction only consider the skim*. If rattled in both ways counts only as one rattle
+points: N/A
+
+no clear
+code: NoneType
+def: The ball passes the bottom of the post but not the top and falls back through without skimming 
+points: -1/2
+
+
+==========================================================================================
+Throw points and codes:
+
+Up & Down
+code: UD
+points: +1, w/s +.5, w/ab +1* #May be changed by the game master to less than 1 point later
+
+Up off top
+code: Uot + # of bounces (Eg. Uot2 = 3p)
+points: +1 * #of bounces, w/ab combine with +.5, w/s ???, w/abw/s ???
+
+Up off top Down
+code: Uot + # of bounces + D (Eg. Uot2D = 9p)
+points: 
+
+ #of alt| Points|  w/   |  w/  |  w/
+ bounces|	|  ab   | skim*| skim and ab*
+–––––––––––––––––––––––––––––––––––––––––
+|   1   |   3   |  +1   |  1.5  |   2   |
+|–––––––|–––––––|–––––––|–––––––|–––––––|
+|   2   |   9   |  +2   |  4.5  |  5.5  |
+|–––––––|–––––––|–––––––|–––––––|–––––––|
+|   3   |   13  |  +2   |  6.5  |  7.5  |
+|–––––––|–––––––|–––––––|–––––––|–––––––|
+|   4   |   17  |   "   |  8.5  |  9.5  |
+|–––-–––|–––––––|–––––––|–––––––|–––––––|
+|   5   |   21  |   "   | 10.5  | 11.5  |
+|–––––––|–––––––|–––––––|–––––––|–––––––|
+|   6   |   25  |   "   | 12.5  | 13.5  |
+|–––––––|–––––––|–––––––|–––––––|–––––––|
+|   7+  |autowin|  N/A  |  auto | auto  |
+|	|	|	| lose  | lose  |  
+–––––––––––––––––––––––––––––––––––––––––
+
+Up rattle Down
+code: UrD
+points: +2, w/ab +2
+
+rattle
+code : r
+points: +2
+
+Up angled beam angled beam down
+code: UababD
+points: 5 w/s 2.5 +2 for every added beam, skim halves
+
+Up around the world Down
+code: Uaround_the_worldD
+points: +7.5, w/s auto lose*
+
+
+
+******************************************************************************************
+w/r: Skim in one direction with rattle was not originally considered to null the rattle but was undecided. Clearer rules were drafted later that year
+WabD: originally was +1.5 but was lowered by .5 to +1.0 by the Gamemaster one June 19th, 2019
+Uot#w/s or Uot#abw/s: Not defined originally
+uot#abw/s: Not defined originally
+Uaround_the_worldD: Originally defined as -1, changed on 1/7/2019
+******************************************************************************************
